@@ -1,0 +1,42 @@
+
+body {
+    margin:             30px auto;
+    max-width:          65%;
+    line-height:        1.6;
+    font-size:          18px;
+    color:              #444;
+    padding:            0 10px;
+    background-color:   #eeeeee;
+}
+
+h1,h2,h3 {
+    line-height:    1.0;
+    text-align:     center;
+}
+
+h2 {
+    font-weight:    normal;
+}
+
+h3 {
+    text-align:     left;
+}
+
+footer { 
+    font-size:      small;
+}
+
+.date { 
+    color:          #AAAAAA; 
+    margin-right:   10px;
+    vertical-align: top;
+    width:          6.5em;
+}
+
+table {
+    border-spacing: 0 10px;
+}
+
+a           { text-decoration: none; color: #444477; font-weight: bold; }
+a:hover     { text-decoration: underline; }
+a:visited   { color: #664466; }
