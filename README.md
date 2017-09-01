@@ -1,4 +1,4 @@
-# https://thefutureblo.ws
+# http://thefutureblo.ws
 
 Recommendations welcome in the form of issues/PRs
 
