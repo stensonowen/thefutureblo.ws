@@ -40,3 +40,4 @@ table {
 a           { text-decoration: none; color: #444477; font-weight: bold; }
 a:hover     { text-decoration: underline; }
 a:visited   { color: #664466; }
+a:target    { background-color: yellow }
