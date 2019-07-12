@@ -33,6 +33,11 @@ footer {
     width:          6.5em;
 }
 
+.rss {
+    width:          0.5em;
+    height:         0.5em;
+}
+
 table {
     border-spacing: 0 10px;
 }
