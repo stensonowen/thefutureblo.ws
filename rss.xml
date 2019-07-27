@@ -7,7 +7,28 @@
         <description>Just start over</description>
         <language>en</language>
         <pubDate> Thu, 11 Jul 2019 00:00:00 -0000 </pubDate>
-        <lastBuildDate> Mon, 08 Jul 2019 00:00:00 -0000 </lastBuildDate>
+        <lastBuildDate> Sun, 27 Jul 2019 00:00:00 -0000 </lastBuildDate>
+
+        <!-- 10
+        <item>
+            <title> _
+            </title>
+            <link> _
+            </link>
+            <description> YYYY-MM-DD </description>
+            <pubDate> Sun, 27 Jul 2019 00:00:00 -0000 </pubDate>
+            <guid> http://thefutureblo.ws/#YYYYMMDD_0 </guid>
+        </item>
+
+        -->
+
+        <item>
+            <title> Amazon Requires Police to Shill Surveillance Cameras in Secret Agreement </title>
+            <link> https://www.vice.com/en_us/article/mb88za/amazon-requires-police-to-shill-surveillance-cameras-in-secret-agreement </link>
+            <description> 2019-07-25 </description>
+            <pubDate> Sun, 27 Jul 2019 00:00:00 -0000 </pubDate>
+            <guid> http://thefutureblo.ws/#20190725_0 </guid>
+        </item>
 
         <item>
             <title> FBI and ICE use DMV photos as 'gold mine' for facial recognition data </title>
